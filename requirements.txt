@@ -1,0 +1,3 @@
+fastapi==0.115.6
+openai==1.59.3
+vercel-fastapi==0.0.4
